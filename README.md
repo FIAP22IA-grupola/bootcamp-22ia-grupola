@@ -1,5 +1,5 @@
 # bootcamp-22ia-grupola
-This repo is dedicated to solve an issue brought on a bootcamp from mba formation
+Este respositório foi feito para resolver a teática do botcamp
 
 ### Para clonar e poder utilizar da branch dev:
 
@@ -22,3 +22,7 @@ with red color)
 git commit or git commit -m 'some message'
 
 `git push <remote name> <branch name>`
+
+## Repositório para gerar a aplicação do StremLit
+
+`git clone https://github.com/LucasAugustoRibeiro/Bootcamp`
