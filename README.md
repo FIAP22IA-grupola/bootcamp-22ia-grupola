@@ -26,3 +26,8 @@ git commit or git commit -m 'some message'
 ## Repositório para gerar a aplicação do StremLit
 
 `git clone https://github.com/LucasAugustoRibeiro/Bootcamp`
+
+## Arquivo de desenvolvimento da modelagem e processamento de dados 
+
+Bootcamp_geral.ipynb
+
